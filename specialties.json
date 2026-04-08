@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "type": "specialties",
+    "total_specialties": 31,
+    "total_doctors": 535730,
+    "generated": "2026-04-08T12:31:07.496Z"
+  },
+  "specialties": [
+    {
+      "id": 1,
+      "specialty_ar": "طب عام",
+      "specialty_en": "general",
+      "icon": "🩺",
+      "total_doctors": 92166,
+      "subspecialties": [
+        "كشف عام",
+        "متابعة أمراض مزمنة",
+        "طب وقائي",
+        "فحص شامل",
+        "علاج نزلات البرد والإنفلونزا"
+      ]
+    },
+    {
+      "id": 2,
+      "specialty_ar": "أطفال",
+      "specialty_en": "pediatrics",
+      "icon": "👶",
+      "total_doctors": 23540,
+      "subspecialties": [
+        "حديثي الولادة",
+        "حساسية الأطفال",
+        "تغذية الأطفال",
+        "أمراض صدرية للأطفال",
+        "متابعة نمو الطفل",
+        "تطعيمات"
+      ]
+    },
+    {
+      "id": 3,
+      "specialty_ar": "نساء وتوليد",
+      "specialty_en": "gynecology",
+      "icon": "🤰",
+      "total_doctors": 20492,
+      "subspecialties": [
+        "متابعة الحمل",
+        "تأخر الإنجاب",
+        "الحقن المجهري",
+        "الولادة الطبيعية والقيصرية",
+        "أمراض النساء",
+        "أورام نسائية"
+      ]
+    },
+    {
+      "id": 4,
+      "specialty_ar": "كلى ومسالك بولية",
+      "specialty_en": "urology",
+      "icon": "🫘",
+      "total_doctors": 13963,
+      "subspecialties": [
+        "حصوات الكلى",
+        "التهابات المسالك",
+        "تضخم البروستاتا",
+        "سلاسة البول",
+        "أمراض الكلى المزمنة"
+      ]
+    },
+    {
+      "id": 5,
+      "specialty_ar": "جراحة عامة",
+      "specialty_en": "surgery",
+      "icon": "🔪",
+      "total_doctors": 12474,
+      "subspecialties": [
+        "جراحة بالمنظار",
+        "جراحة أورام",
+        "جراحة الجهاز الهضمي",
+        "فتاق",
+        "استئصال المرارة"
+      ]
+    },
+    {
+      "id": 6,
+      "specialty_ar": "باطنة",
+      "specialty_en": "internal-medicine",
+      "icon": "🫁",
+      "total_doctors": 11929,
+      "subspecialties": [
+        "أمراض الضغط",
+        "أمراض السكر",
+        "أمراض الكبد",
+        "أمراض القلب الباطنية",
+        "أمراض الجهاز الهضمي"
+      ]
+    },
+    {
+      "id": 7,
+      "specialty_ar": "تخدير وعناية مركزة",
+      "specialty_en": "anesthesia",
+      "icon": "😴",
+      "total_doctors": 11493,
+      "subspecialties": [
+        "تخدير عام",
+        "تخدير موضعي",
+        "عناية مركزة",
+        "دعم تنفسي",
+        "إدارة الألم"
+      ]
+    },
+    {
+      "id": 8,
+      "specialty_ar": "عظام",
+      "specialty_en": "orthopedics",
+      "icon": "🦴",
+      "total_doctors": 8467,
+      "subspecialties": [
+        "كسور",
+        "إصابات رياضية",
+        "جراحة عظام",
+        "مناظير مفاصل",
+        "العمود الفقري"
+      ]
+    },
+    {
+      "id": 9,
+      "specialty_ar": "جلدية",
+      "specialty_en": "dermatology",
+      "icon": "🧴",
+      "total_doctors": 9223,
+      "subspecialties": [
+        "حب الشباب",
+        "تساقط الشعر",
+        "أمراض جلدية مزمنة",
+        "تجميل الجلد",
+        "ليزر",
+        "علاج التصبغات"
+      ]
+    },
+    {
+      "id": 10,
+      "specialty_ar": "قلب وأوعية دموية",
+      "specialty_en": "cardiology",
+      "icon": "❤️",
+      "total_doctors": 8563,
+      "subspecialties": [
+        "قسطرة القلب",
+        "رسم القلب",
+        "فشل القلب",
+        "ضغط الدم",
+        "أمراض الشرايين"
+      ]
+    },
+    {
+      "id": 11,
+      "specialty_ar": "أشعة تشخيصية",
+      "specialty_en": "radiology",
+      "icon": "📡",
+      "total_doctors": 7944,
+      "subspecialties": [
+        "أشعة عادية",
+        "رنين مغناطيسي",
+        "CT Scan",
+        "سونار",
+        "أشعة تداخلية"
+      ]
+    },
+    {
+      "id": 12,
+      "specialty_ar": "عيون",
+      "specialty_en": "ophthalmology",
+      "icon": "👁️",
+      "total_doctors": 7851,
+      "subspecialties": [
+        "ضعف النظر",
+        "عمليات ليزك",
+        "المياه البيضاء",
+        "الشبكية",
+        "جفاف العين"
+      ]
+    },
+    {
+      "id": 13,
+      "specialty_ar": "أنف وأذن وحنجرة",
+      "specialty_en": "ent",
+      "icon": "👂",
+      "total_doctors": 5754,
+      "subspecialties": [
+        "الجيوب الأنفية",
+        "اللوز",
+        "ضعف السمع",
+        "دوخة واتزان",
+        "التهابات الأذن"
+      ]
+    },
+    {
+      "id": 14,
+      "specialty_ar": "نفسية وأعصاب",
+      "specialty_en": "psychiatry",
+      "icon": "🧠",
+      "total_doctors": 4505,
+      "subspecialties": [
+        "اكتئاب",
+        "قلق",
+        "صرع",
+        "أمراض المخ",
+        "اضطرابات النوم"
+      ]
+    },
+    {
+      "id": 15,
+      "specialty_ar": "طب أسرة",
+      "specialty_en": "family-medicine",
+      "icon": "👨‍👩‍👧",
+      "total_doctors": 3686,
+      "subspecialties": [
+        "متابعة الأسرة",
+        "أمراض مزمنة",
+        "تطعيمات",
+        "صحة عامة"
+      ]
+    },
+    {
+      "id": 16,
+      "specialty_ar": "أمراض معدية وحميات",
+      "specialty_en": "infectious",
+      "icon": "🦠",
+      "total_doctors": 3621,
+      "subspecialties": [
+        "فيروسات",
+        "حمى",
+        "أمراض معدية",
+        "عدوى بكتيرية"
+      ]
+    },
+    {
+      "id": 17,
+      "specialty_ar": "أمراض صدرية",
+      "specialty_en": "pulmonology",
+      "icon": "🫁",
+      "total_doctors": 3333,
+      "subspecialties": [
+        "الربو",
+        "حساسية صدر",
+        "التهابات رئوية",
+        "أمراض مزمنة"
+      ]
+    },
+    {
+      "id": 18,
+      "specialty_ar": "مختبرات طبية ومناعة",
+      "specialty_en": "immunology",
+      "icon": "🔬",
+      "total_doctors": 3189,
+      "subspecialties": [
+        "تحاليل دم",
+        "تحاليل هرمونات",
+        "مناعة",
+        "PCR"
+      ]
+    },
+    {
+      "id": 19,
+      "specialty_ar": "جهاز هضمي وكبد ومناظير",
+      "specialty_en": "gastro",
+      "icon": "🔭",
+      "total_doctors": 3012,
+      "subspecialties": [
+        "قرحة المعدة",
+        "ارتجاع المريء",
+        "أمراض الكبد",
+        "مناظير",
+        "القولون"
+      ]
+    },
+    {
+      "id": 20,
+      "specialty_ar": "أورام",
+      "specialty_en": "oncology",
+      "icon": "🩹",
+      "total_doctors": 1978,
+      "subspecialties": [
+        "أورام حميدة",
+        "أورام خبيثة",
+        "علاج كيماوي",
+        "علاج إشعاعي"
+      ]
+    },
+    {
+      "id": 21,
+      "specialty_ar": "تغذية وتخسيس",
+      "specialty_en": "nutrition",
+      "icon": "🥗",
+      "total_doctors": 1725,
+      "subspecialties": [
+        "أنظمة غذائية",
+        "سمنة",
+        "نحافة",
+        "تغذية علاجية"
+      ]
+    },
+    {
+      "id": 22,
+      "specialty_ar": "جراحة مخ وأعصاب",
+      "specialty_en": "neurosurgery",
+      "icon": "🧠",
+      "total_doctors": 1555,
+      "subspecialties": [
+        "أورام المخ",
+        "العمود الفقري",
+        "إصابات الرأس",
+        "جراحات دقيقة"
+      ]
+    },
+    {
+      "id": 23,
+      "specialty_ar": "تجميل وحروق",
+      "specialty_en": "cosmetic",
+      "icon": "💆",
+      "total_doctors": 1453,
+      "subspecialties": [
+        "جراحة تجميل",
+        "فيلر وبوتوكس",
+        "حروق",
+        "شد الجلد"
+      ]
+    },
+    {
+      "id": 24,
+      "specialty_ar": "طوارئ وحوادث",
+      "specialty_en": "general",
+      "icon": "👨‍⚕️",
+      "total_doctors": 1346,
+      "subspecialties": [
+        "إسعافات أولية",
+        "حوادث",
+        "إنعاش",
+        "إصابات"
+      ]
+    },
+    {
+      "id": 25,
+      "specialty_ar": "سكر وغدد صماء",
+      "specialty_en": "general",
+      "icon": "👨‍⚕️",
+      "total_doctors": 565,
+      "subspecialties": [
+        "السكري",
+        "الغدة الدرقية",
+        "هرمونات",
+        "اضطرابات الغدد"
+      ]
+    },
+    {
+      "id": 26,
+      "specialty_ar": "صحة عامة وإدارة صحية",
+      "specialty_en": "general",
+      "icon": "👨‍⚕️",
+      "total_doctors": 310,
+      "subspecialties": [
+        "إدارة مستشفيات",
+        "وقاية",
+        "توعية صحية"
+      ]
+    },
+    {
+      "id": 27,
+      "specialty_ar": "أمراض دم",
+      "specialty_en": "general",
+      "icon": "👨‍⚕️",
+      "total_doctors": 276,
+      "subspecialties": [
+        "أنيميا",
+        "سيولة الدم",
+        "أورام الدم",
+        "نقل الدم"
+      ]
+    },
+    {
+      "id": 28,
+      "specialty_ar": "علاج طبيعي",
+      "specialty_en": "general",
+      "icon": "👨‍⚕️",
+      "total_doctors": 2697,
+      "subspecialties": [
+        "تأهيل",
+        "إصابات رياضية",
+        "علاج ألم",
+        "جلسات علاج طبيعي"
+      ]
+    },
+    {
+      "id": 29,
+      "specialty_ar": "ذكورة وعقم",
+      "specialty_en": "general",
+      "icon": "👨‍⚕️",
+      "total_doctors": 640,
+      "subspecialties": [
+        "—"
+      ]
+    },
+    {
+      "id": 30,
+      "specialty_ar": "أسنان",
+      "specialty_en": "dentistry",
+      "icon": "🦷",
+      "total_doctors": 115,
+      "subspecialties": [
+        "أسنان عامة",
+        "تقويم أسنان",
+        "زراعة أسنان",
+        "تجميل أسنان",
+        "أسنان أطفال",
+        "علاج جذور",
+        "أمراض لثة",
+        "تركيبات أسنان",
+        "جراحة فم وأسنان"
+      ]
+    },
+    {
+      "id": 31,
+      "specialty_ar": "الإجمالي",
+      "specialty_en": "general",
+      "icon": "👨‍⚕️",
+      "total_doctors": 267865,
+      "subspecialties": []
+    }
+  ]
+}
